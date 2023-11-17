@@ -157,8 +157,9 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](image.png)
-![Alt text](image-1.png)
+![image](https://github.com/Srujana0303/Calc/assets/132996836/d4383b39-a389-4e20-83f0-eee7772ea544)
+![image](https://github.com/Srujana0303/Calc/assets/132996836/11d95e30-7da5-46d0-a177-41de19fd7832)
+
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
