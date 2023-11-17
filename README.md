@@ -7,6 +7,7 @@ To design a web application for a standard calculator with minimum five operatio
 ## DESIGN STEPS:
 
 ### Step 1:
+hi
 Clone the github repository and create Django admin interface.
 
 ### Step 2:
