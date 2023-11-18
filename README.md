@@ -158,7 +158,8 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![image](https://github.com/Srujana0303/Calc/assets/132996836/d4383b39-a389-4e20-83f0-eee7772ea544)
-![image](https://github.com/Srujana0303/Calc/assets/132996836/11d95e30-7da5-46d0-a177-41de19fd7832)
+![image](https://github.com/Srujana0303/Calc/assets/132996836/06c920c7-7b2c-4e0d-add1-188f492ef855)
+
 
 
 ## RESULT:
